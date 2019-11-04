@@ -20,8 +20,9 @@ The oracle attack is focused on attacking the oracle in order for it to feed fal
 
 Example:
 In the case of Stablecoins, one could take a short position on a stablecoin that is actually trading at $1, and feed false/incorrect price to the Oracle and thus trick the stablecoin smart contract into thinking that it is trading at $1.10, the protocol will automatically mint more tokens and the attacker profits.
+A researcher also did atomic price manipulation attacks against price Oracles (with a fantastic write up)[5]
 
-**Known Project Attacks**: N/A
+**Known Project Attacks**: DDEX and bZx[5]
 
 A solution to this potential attack is the use of *decentralized Oracles*, where nodes or token must reach consensus about certain events. However, they too are not without attack vectors, although these attack vectors are a bit harder to pull off.
 
@@ -70,4 +71,6 @@ This incentivises anyone to vote 1 no matter what the majority votes for. Given 
 [3] The P + epsilon Attack[Online]. Available: https://blog.ethereum.org/2015/01/28/p-epsilon-attack/, Date accessed: 2019-02-20
 
 [4] Kleros attacks[Online]. Available: https://github.com/kleros/kleros-attacks/blob/master/contracts/p-epsilon.sol, Date accessed: 2019-02-15
+
+[5] Taking undercollateralized loans for fun and for profit[Online]. Available: https://samczsun.com/taking-undercollateralized-loans-for-fun-and-for-profit/, Date accessed: 2019-10-03
 
