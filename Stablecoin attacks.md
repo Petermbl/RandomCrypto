@@ -1,5 +1,6 @@
 
-Cryptocurrencies are still in their infancy and are still very volatile. Stablecoins, price-stable cryptocurrencies, have thus attracted a lot of attention. They are, however, not without attack vectors.
+Cryptocurrencies are still in their infancy (some more than others) and not much has been documented with regards to the types of attacks that can and have been done.
+Here is a high level view of attack types against Stablecoins (ala Tether, DAI, etc)
 
  ## **Speculative attack**
 A speculative attack is a sudden and massive selling of a currency (in our case, cryptocurrency) in a short space of time. Such an attack was launched against Tether (USDT) stablecoin [1]. The attack took 3 hours from start to finish and was launched to profit from Tether breaking its peg from the U.S Dollar.
