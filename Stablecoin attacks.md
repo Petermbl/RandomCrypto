@@ -1,5 +1,5 @@
 
-# ** Types of attacks against Stablecoins**
+# **Types of attacks against Stablecoins**
 Cryptocurrencies are still in their infancy (some more than others) and not much has been documented with regards to the types of attacks that can and have been done.
 Here is a high level view of attack types against Stablecoins (ala Tether, DAI, etc)
 
