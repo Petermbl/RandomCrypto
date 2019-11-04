@@ -24,7 +24,6 @@ A researcher also did atomic price manipulation attacks against price Oracles (w
 
 **Known Project Attacks**: DDEX and bZx[5]
 
-A solution to this potential attack is the use of *decentralized Oracles*, where nodes or token must reach consensus about certain events. However, they too are not without attack vectors, although these attack vectors are a bit harder to pull off.
 
 ## **P+Epsilon Attack**
 This attack is defined thus: “a simple Schelling game where users vote on whether or not some particular fact is true (1) or false (0); say in our example that it’s actually false. Each user can either vote 1 or 0. If a user votes the same as the majority, they get a reward of P; otherwise they get 0 [3]. The theory is that if everyone expects everyone else to vote truthfully, then their incentive is to also vote truthfully in order to comply with the majority, and that’s the reason why one can expect others to vote truthfully in the first place; a self-reinforcing Nash equilibrium.“
